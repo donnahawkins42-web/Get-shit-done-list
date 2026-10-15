@@ -1,0 +1,8 @@
+{
+  "name": "The Get Shit Done List",
+  "short_name": "Shit List",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbf7f4",
+  "theme_color": "#d4788f"
+}
